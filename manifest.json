@@ -26,7 +26,6 @@
       ],
       "js": [
         "papaparse.js",
-        "ramda.js",
         "jira.js"
       ]
     }
